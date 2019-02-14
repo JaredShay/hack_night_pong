@@ -1,0 +1,9 @@
+Objects:
+
+- Players
+- Paddles
+- Ball
+- Score Board
+- Playing field
+
+
