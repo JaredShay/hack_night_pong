@@ -11,4 +11,10 @@ class Player
     name
   end
 
+  def player_move
+    up = mouse_up
+    down = up - @last_mouse_up
+    @name.up += down
+  end
+
 end
